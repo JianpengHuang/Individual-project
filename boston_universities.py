@@ -11,7 +11,7 @@ import plotly.express as px
 import pandas as pd
 
 
-df = pd.read_csv('C:/Users/lrnru/Desktop/Bentely/Bentley 2022 Fall/MA 705/individual project/Revised data.csv')
+df = pd.read_csv(Revised data.csv')
 
 
 stylesheet = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
