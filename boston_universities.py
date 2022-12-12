@@ -10,8 +10,8 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
 
-
-df = pd.read_csv(Revised data.csv')
+url = 'https://github.com/JianpengHuang/Week-10/blob/main/Revised%20data.csv?raw=true'
+df = pd.read_csv(url, index = 0)
 
 
 stylesheet = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
