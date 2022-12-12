@@ -10,7 +10,7 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
 
-url = 'https://github.com/JianpengHuang/Week-10/blob/main/Revised%20data.csv?raw=true'
+url = 'https://raw.githubusercontent.com/JianpengHuang/Week-10/main/Revised%20data.csv'
 df = pd.read_csv(url, index = 0)
 
 
