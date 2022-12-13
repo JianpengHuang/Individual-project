@@ -14,6 +14,7 @@ url = 'https://raw.githubusercontent.com/JianpengHuang/Individual-project/main/R
 
 df = pd.read_csv(url)
 
+
 stylesheet = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 ### pandas dataframe to html table
