@@ -13,7 +13,7 @@ import pandas as pd
 url = 'https://raw.githubusercontent.com/JianpengHuang/Individual-project/main/Revised%20data.csv'
 
 df = pd.read_csv(url)
-#https://raw.githubusercontent.com/JianpengHuang/Individual-project/main/Revised%20data.csv
+
 stylesheet = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 ### pandas dataframe to html table
