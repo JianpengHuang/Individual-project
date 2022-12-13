@@ -10,9 +10,9 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
 
-url = 'https://raw.githubusercontent.com/JianpengHuang/Individual-project/blob/main/Revised%20data.csv'
+url = 'https://raw.github.com/JianpengHuang/Individual-project/blob/main/Revised%20data.csv'
 df = pd.read_csv(url)
-
+#https://github.com/JianpengHuang/Individual-project/blob/main/Revised%20data.csv
 stylesheet = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 ### pandas dataframe to html table
