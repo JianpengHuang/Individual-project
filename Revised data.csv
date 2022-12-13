@@ -1,0 +1,367 @@
+year,make,model,body style,miles,price,exterior color,interior color
+2015,Nissan,GT-R,Premium,"41,680",88995 ,White,Black
+2015,Nissan,GT-R,Premium,"58,301",80000 ,Silver,Black
+2015,Audi,RS 5,Coupe,"75,383",38900 ,Gray,Black
+2015,BMW,M4,Coupe,"58,395",42118 ,Black,Orange
+2015,BMW,M4,Convertible,"33,126",45499 ,White,Red
+2015,Nissan,GT-R,Premium,"57,933",69950 ,Unknown,Black
+2015,BMW,M4,Coupe,"100,409",30000 ,Black,Red
+2015,BMW,M4,Coupe,"54,835",42999 ,Orange,Unknown
+2015,Nissan,GT-R,Black Edition,"13,482",99900 ,Gray,Black
+2015,Audi,RS 5,Cabriolet,"71,971",45695 ,Gray,Black
+2015,Nissan,GT-R,Premium,"58,702",88991 ,White,Black
+2015,Nissan,GT-R,Premium,"40,155",89900 ,Gray,Black
+2015,Audi,RS 5,Coupe,"49,833",44990 ,Black,Black
+2015,Audi,RS 5,Coupe,"81,557",38995 ,Gray,Black
+2015,Audi,RS 5,Coupe,"103,938",37991 ,Black,Black
+2015,Nissan,GT-R,Premium,"37,559",83888 ,Silver,Black
+2015,Nissan,GT-R,Black Edition,"52,815",75998 ,Black,Black
+2015,Nissan,GT-R,Premium,"41,501",83000 ,Gray,Red
+2015,BMW,M4,Coupe,"23,589",47499 ,Silver,Gray
+2015,BMW,M4,Coupe,"50,022",40999 ,White,Black
+2015,BMW,M4,Coupe,"53,358",42999 ,White,Red
+2015,BMW,M4,Convertible,"27,248",46998 ,Gray,Red
+2015,Nissan,GT-R,Premium,"35,805",88578 ,Black,Beige
+2015,Nissan,GT-R,Black Edition,"40,895",80500 ,Gray,Black
+2015,Nissan,GT-R,Premium,"38,763",89000 ,Black,Black
+2015,Nissan,GT-R,Premium,"76,000",79900 ,Orange,Unknown
+2015,Nissan,GT-R,Premium,"11,037",99999 ,White,Red
+2015,BMW,M4,Coupe,"48,801",43590 ,Gray,Black
+2015,Nissan,GT-R,Premium,"67,313",82888 ,Red,Black
+2015,BMW,M4,Coupe,"44,480",44590 ,White,Black
+2015,Nissan,GT-R,NISMO,"2,175",184999 ,Gray,Red
+2015,Nissan,GT-R,Premium,"45,658",78777 ,Gray,Black
+2015,BMW,M4,Coupe,"59,701",43999 ,Yellow,Black
+2015,Nissan,GT-R,Premium,"42,124",89991 ,Black,Black
+2016,Nissan,GT-R,Premium,"16,057",96991 ,Gray,Black
+2016,Nissan,GT-R,Premium,"6,252",98900 ,White,Red
+2016,Nissan,GT-R,Premium,"23,329",87990 ,Black,Beige
+2016,Nissan,GT-R,Black Edition,"7,472",158990 ,White,Black
+2016,Nissan,GT-R,NISMO,"16,306",149900 ,Black,Black
+2016,Nissan,GT-R,Black Edition,"44,532",89995 ,White,Black
+2016,Nissan,GT-R,Premium,"59,157",79790 ,Blue,Unknown
+2016,Nissan,GT-R,Premium,"37,899",82893 ,Silver,Beige
+2016,Nissan,GT-R,Black Edition,"26,965",98995 ,Blue,Black
+2016,BMW,M4,Coupe,"44,029",46998 ,Silver,Black
+2016,BMW,M4,Convertible,"31,510",45995 ,White,Orange
+2016,BMW,M4,Coupe,"30,984",48998 ,White,Brown
+2016,BMW,M4,GTS Coupe,"10,689",91899 ,Unknown,Unknown
+2016,BMW,M4,Convertible,"19,450",49995 ,Black,Black
+2016,BMW,M4,Coupe,"84,663",38000 ,Yellow,Red
+2016,BMW,M4,Coupe,"50,418",42236 ,Silver,White
+2016,BMW,M4,Convertible,"51,875",46988 ,Black,Red
+2016,BMW,M4,Convertible,"36,833",44500 ,White,Black
+2016,BMW,M4,Coupe,"30,170",46990 ,Gray,Black
+2016,BMW,M4,Convertible,"41,181",46990 ,Gray,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Cabriolet RWD,"47,030",58998 ,White,Red
+2017,Mercedes-Benz,C-Class,C 63 S AMG Cabriolet RWD,"81,128",47959 ,Black,Unknown
+2017,Mercedes-Benz,C-Class,C 63 S AMG Coupe RWD,"51,674",52998 ,Blue,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Cabriolet RWD,"20,999",63495 ,Silver,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Cabriolet RWD,"43,128",56990 ,Gray,Unknown
+2017,Mercedes-Benz,C-Class,C 63 AMG Sedan RWD,"38,951",51998 ,Black,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Cabriolet RWD,"22,092",69990 ,White,Brown
+2017,Mercedes-Benz,C-Class,C 63 S AMG Coupe RWD,"21,223",61990 ,Silver,Black
+2017,Mercedes-Benz,C-Class,C 63 AMG Cabriolet RWD,"34,732",49995 ,Gray,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Cabriolet RWD,"50,425",56998 ,White,Black
+2017,Mercedes-Benz,C-Class,C 63 AMG Sedan RWD,"69,529",38786 ,Black,Black
+2017,Mercedes-Benz,C-Class,C 63 AMG Sedan RWD,"45,300",48590 ,Black,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Cabriolet RWD,"35,628",61995 ,White,Red
+2017,Mercedes-Benz,C-Class,C 63 AMG Coupe RWD,"40,924",49995 ,White,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Coupe RWD,"45,771",55905 ,Black,Black
+2017,Mercedes-Benz,C-Class,C 63 AMG Cabriolet RWD,"66,629",48900 ,Gray,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Coupe RWD,"40,562",61995 ,White,Red
+2017,Mercedes-Benz,C-Class,C 63 S AMG Cabriolet RWD,"59,073",54995 ,Silver,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Sedan RWD,"63,624",53995 ,Black,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Sedan RWD,"22,478",56781 ,Black,Black
+2017,Mercedes-Benz,C-Class,C 63 S AMG Coupe RWD,"65,155",55399 ,Black,Black
+2017,Mercedes-Benz,C-Class,C 63 AMG Sedan RWD,"29,515",44988 ,Black,Black
+2017,Porsche,718 Cayman,S Coupe,"55,172",59888 ,Silver,Black
+2017,Porsche,718 Cayman,Coupe,"31,154",44999 ,Silver,Black
+2017,Porsche,718 Cayman,S Coupe,"24,690",74775 ,Blue,Gray
+2017,BMW,M4,Coupe,"60,671",48800 ,Gray,Black
+2017,BMW,M4,Coupe,"31,542",51998 ,Red,Black
+2017,Porsche,718 Cayman,Coupe,"59,445",46990 ,White,Black
+2017,Nissan,GT-R,Premium,"5,646",119786 ,White,Beige
+2017,BMW,M4,Coupe,"38,560",51999 ,Black,Black
+2017,Porsche,718 Cayman,S Coupe,"18,180",67998 ,White,Black
+2017,BMW,M4,Coupe,"41,270",49999 ,White,Orange
+2017,Nissan,GT-R,Premium,"8,170",199990 ,Black,Black
+2017,Nissan,GT-R,Premium,"49,625",103775 ,Orange,Black
+2017,Nissan,GT-R,Premium,"46,270",102990 ,White,Black
+2017,BMW,M4,Convertible,"64,196",40996 ,Black,Beige
+2017,Nissan,GT-R,Premium,"19,097",109950 ,Black,Beige
+2017,BMW,M4,Coupe,"56,147",46998 ,Red,Gray
+2017,Nissan,GT-R,Premium,"9,778",107995 ,Black,Beige
+2017,Nissan,GT-R,Premium,"16,802",109991 ,Orange,Black
+2017,Nissan,GT-R,Premium,"27,717",114995 ,Blue,Black
+2017,Nissan,GT-R,Premium,"21,061",109999 ,Orange,Beige
+2017,Nissan,GT-R,Premium,"33,582",113999 ,Orange,Beige
+2017,BMW,M4,Coupe,"45,183",48499 ,Orange,Orange
+2017,Nissan,GT-R,Premium,"17,205",114900 ,White,Black
+2017,Nissan,GT-R,Premium,"26,715",110990 ,White,Black
+2017,Nissan,GT-R,Premium,"26,158",110000 ,Orange,Black
+2017,Nissan,GT-R,Premium,"39,392",112991 ,Silver,Black
+2017,Nissan,GT-R,Premium,"59,687",105991 ,Silver,Black
+2017,Nissan,GT-R,Premium,"28,795",98995 ,Gray,Black
+2017,Nissan,GT-R,Premium,"28,847",112700 ,Red,Beige
+2018,Mercedes-Benz,C-Class,C 63 S AMG Coupe RWD,"18,703",67590 ,Black,Black
+2018,Porsche,718 Cayman,Coupe,"32,536",56575 ,White,Black
+2018,Porsche,718 Cayman,GTS Coupe,"8,371",83987 ,Silver,Red
+2018,Porsche,718 Cayman,Coupe,"46,926",51590 ,Gray,Black
+2018,Mercedes-Benz,C-Class,C 63 S AMG Coupe RWD,"63,093",54996 ,White,Black
+2018,Mercedes-Benz,C-Class,C 63 AMG Sedan RWD,"22,269",52900 ,Blue,Black
+2018,Porsche,718 Cayman,S Coupe,"5,394",72500 ,Black,Black
+2018,Porsche,718 Cayman,Coupe,"7,514",58898 ,Red,Black
+2018,Porsche,718 Cayman,GTS Coupe,"6,502",87490 ,White,Black
+2018,Porsche,718 Cayman,Coupe,"24,883",55590 ,White,Black
+2018,Mercedes-Benz,C-Class,C 63 S AMG Sedan RWD,"60,970",52740 ,Unknown,Black
+2018,Mercedes-Benz,C-Class,C 63 S AMG Cabriolet RWD,"17,510",71500 ,White,Red
+2018,Mercedes-Benz,C-Class,C 63 S AMG Coupe RWD,"44,205",64995 ,Gray,Black
+2018,Nissan,GT-R,Premium,"3,747",129000 ,White,Brown
+2018,Nissan,GT-R,Premium,"14,299",114444 ,Orange,Black
+2018,Nissan,GT-R,NISMO,"11,329",169999 ,Black,Black
+2018,Porsche,718 Cayman,S Coupe,"30,707",65590 ,Gray,Black
+2018,Nissan,GT-R,Track Edition,"36,096",123490 ,Black,Black
+2018,Mercedes-Benz,C-Class,C 63 S AMG Cabriolet RWD,"56,780",63998 ,Gray,Black
+2018,Audi,RS 5,Coupe,"23,173",55974 ,White,Black
+2018,Audi,RS 5,Coupe,"18,850",62998 ,Gray,Black
+2018,Audi,RS 5,Coupe,"70,781",47450 ,Red,Black
+2018,Audi,RS 5,Coupe,"35,224",56877 ,Gray,Black
+2018,BMW,M4,Coupe,"41,817",50990 ,Black,Black
+2018,BMW,M4,Coupe,"27,055",54998 ,Yellow,Black
+2018,BMW,M4,Coupe,"40,828",51499 ,White,Red
+2018,Audi,RS 5,Coupe,"31,627",63500 ,White,Black
+2018,Audi,RS 5,Coupe,"38,950",55477 ,White,Black
+2018,Audi,RS 5,Coupe,"18,102",57995 ,Black,Black
+2018,Audi,RS 5,Coupe,"21,087",58995 ,Black,Gray
+2018,Audi,RS 5,Coupe,"30,685",59555 ,Blue,Gray
+2018,Audi,RS 5,Coupe,"12,616",62497 ,Black,Black
+2018,Audi,RS 5,Coupe,"32,775",59991 ,Gray,Black
+2018,Audi,RS 5,Coupe,"38,103",57995 ,Black,Black
+2018,Audi,RS 5,Coupe,"18,019",58949 ,Blue,Gray
+2018,Audi,RS 5,Coupe,"75,387",52980 ,Red,Black
+2018,Audi,RS 5,Coupe,"58,700",63991 ,Unknown,Black
+2018,Audi,RS 5,Coupe,"14,645",49944 ,Blue,Black
+2018,Audi,RS 5,Coupe,"26,059",62307 ,Black,Black
+2018,Audi,RS 5,Coupe,"28,907",58920 ,White,Black
+2018,Audi,RS 5,Coupe,"14,244",60990 ,Gray,Black
+2018,Audi,RS 5,Coupe,"29,974",57991 ,Black,Black
+2018,Audi,RS 5,Coupe,"47,955",50995 ,Black,Black
+2018,Audi,RS 5,Coupe,"38,668",57898 ,Black,Black
+2018,Audi,RS 5,Coupe,"38,260",59500 ,Gray,Black
+2018,BMW,M4,Coupe,"14,236",59950 ,Black,Orange
+2018,BMW,M4,Coupe,"41,912",50981 ,White,Black
+2018,BMW,M4,Convertible,"12,348",48995 ,White,Black
+2018,BMW,M4,Coupe,"40,163",48988 ,White,Orange
+2019,BMW,M4,CS Coupe,"24,643",65995 ,Black,Gray
+2019,BMW,M4,CS Coupe,"17,170",65995 ,Black,Gray
+2019,BMW,M4,Convertible,"26,346",62995 ,Gray,Black
+2019,Porsche,718 Cayman,Coupe,"6,874",63999 ,Blue,Black
+2019,Porsche,718 Cayman,Coupe,"14,604",58998 ,White,Red
+2019,Audi,RS 5,Sportback,"11,257",60783 ,Gray,Unknown
+2019,Audi,RS 5,Sportback,"81,644",51222 ,Black,Black
+2019,Audi,RS 5,Sportback,"76,704",52988 ,Black,Black
+2019,Porsche,718 Cayman,Coupe,"9,878",62590 ,Black,Black
+2019,BMW,M4,CS Coupe,"20,618",62999 ,Black,Gray
+2019,Porsche,718 Cayman,S Coupe,"19,904",71590 ,Silver,Black
+2019,Porsche,718 Cayman,Coupe,"30,839",60590 ,White,Black
+2019,Mercedes-Benz,C-Class,AMG C 63 S Sedan RWD,"9,863",70990 ,Black,Black
+2019,Porsche,718 Cayman,GTS Coupe,"5,179",84339 ,Gray,Unknown
+2019,Porsche,718 Cayman,Coupe,"5,389",61990 ,Black,Black
+2019,Porsche,718 Cayman,S Coupe,"18,219",72795 ,Red,Black
+2019,Mercedes-Benz,C-Class,AMG C 63 S Sedan RWD,"23,737",75999 ,White,Black
+2019,Mercedes-Benz,C-Class,AMG C 63 Sedan RWD,"35,554",51988 ,Black,Black
+2019,Porsche,718 Cayman,Coupe,"7,073",61576 ,Black,Black
+2019,Audi,RS 5,Sportback,"14,341",65994 ,Gray,Black
+2019,BMW,M4,CS Coupe,"13,335",64999 ,White,Gray
+2019,Audi,RS 5,Coupe,"23,052",65880 ,Gray,Black
+2019,Audi,RS 5,Sportback,"37,718",60000 ,Red,Black
+2019,Audi,RS 5,Sportback,"30,123",69998 ,Black,Black
+2019,Audi,RS 5,Sportback,"72,371",59864 ,White,Black
+2019,Audi,RS 5,Sportback,"38,179",65195 ,White,Black
+2019,Audi,RS 5,Sportback,"13,995",64278 ,Black,Black
+2019,Audi,RS 5,Sportback,"11,252",67932 ,Green,Black
+2019,Audi,RS 5,Sportback,"43,682",58859 ,Gray,Black
+2019,Audi,RS 5,Sportback,"24,884",65112 ,Black,Black
+2019,Audi,RS 5,Sportback,"42,218",62495 ,Black,Black
+2019,Audi,RS 5,Coupe,"25,826",66550 ,Gray,Red
+2019,Audi,RS 5,Coupe,"5,833",65900 ,White,Black
+2019,Audi,RS 5,Sportback,"116,762",45991 ,White,Black
+2019,Audi,RS 5,Sportback,"69,950",55500 ,Gray,Black
+2019,Audi,RS 5,Sportback,"14,312",54994 ,Blue,Black
+2019,Audi,RS 5,Sportback,"20,810",67896 ,Gray,Black
+2019,Audi,RS 5,Sportback,"32,487",57498 ,Black,Black
+2019,Audi,RS 5,Sportback,"11,382",71999 ,Black,Black
+2019,Audi,RS 5,Coupe,"4,954",69590 ,Gray,Gray
+2019,Audi,RS 5,Sportback,"21,511",69585 ,Gray,Silver
+2019,Audi,RS 5,Coupe,"31,711",64990 ,Gray,Red
+2019,Audi,RS 5,Coupe,"10,919",67590 ,Gray,Red
+2019,Audi,RS 5,Coupe,"24,109",68499 ,White,Black
+2019,Audi,RS 5,Coupe,"6,311",67995 ,Black,Red
+2019,Audi,RS 5,Sportback,"54,832",56988 ,White,Black
+2019,Audi,RS 5,Sportback,"30,319",64995 ,Gray,Black
+2020,BMW,M4,Convertible,"15,861",68999 ,Black,Black
+2020,Nissan,GT-R,Premium,"2,678",129995 ,White,Black
+2020,BMW,M4,Coupe,"6,449",67594 ,Blue,Black
+2020,Nissan,GT-R,Premium,"18,474",119900 ,White,Gray
+2020,Nissan,GT-R,Premium,"10,270",119991 ,Blue,Black
+2020,Nissan,GT-R,Premium,"12,654",134990 ,White,Black
+2020,Nissan,GT-R,Premium,"13,540",132990 ,Red,Black
+2020,Nissan,GT-R,Premium,"20,843",117989 ,Blue,Black
+2020,Nissan,GT-R,Premium,"19,801",132000 ,Red,Black
+2020,Nissan,GT-R,Premium,"17,680",139555 ,White,Black
+2020,Tesla,Model Y,Long Range Dual Motor AWD,"39,511",54998 ,Blue,Black
+2020,Nissan,GT-R,Premium,"21,994",125500 ,Black,Beige
+2020,Nissan,GT-R,Premium,"10,897",131988 ,White,Black
+2020,BMW,M4,Coupe,"2,210",69995 ,Black,Black
+2020,BMW,M4,Coupe,"24,948",69999 ,Red,Black
+2020,BMW,M4,Convertible,"25,594",63325 ,Gray,Black
+2020,BMW,M4,Coupe,"29,834",64013 ,Black,Black
+2020,BMW,M4,Coupe,"16,870",65300 ,Black,Black
+2020,BMW,M4,Coupe,"8,721",62900 ,Orange,Black
+2020,BMW,M4,CS Coupe,"8,213",79999 ,Gray,Gray
+2020,BMW,M4,Coupe,"25,912",66499 ,Yellow,Black
+2020,BMW,M4,CS Coupe,"44,294",57995 ,Blue,Gray
+2020,BMW,M4,CS Coupe,"6,105",74995 ,Blue,Gray
+2020,BMW,M4,CS Coupe,"5,668",77997 ,White,Gray
+2020,Nissan,GT-R,Premium,"23,236",129900 ,Blue,Black
+2020,Tesla,Model Y,Performance Dual Motor AWD,"44,740",54995 ,White,Black
+2020,Tesla,Model Y,Long Range Dual Motor AWD,"17,912",59998 ,White,Black
+2020,Mercedes-Benz,C-Class,AMG C 63 Cabriolet,"12,969",75990 ,Gray,Black
+2020,Mercedes-Benz,C-Class,AMG C 63 S Coupe RWD,"22,959",83998 ,Black,Black
+2020,Mercedes-Benz,C-Class,AMG C 63 Cabriolet,"9,000",78995 ,Silver,Black
+2020,Mercedes-Benz,C-Class,AMG C 63 Sedan RWD,"26,542",60900 ,White,Black
+2020,Mercedes-Benz,C-Class,AMG C 63 S Coupe RWD,"21,837",75000 ,Black,Black
+2020,Mercedes-Benz,C-Class,AMG C 63 Sedan RWD,"14,747",58560 ,White,Black
+2020,Mercedes-Benz,C-Class,AMG C 63 S Coupe RWD,"19,052",82900 ,Black,Black
+2020,Nissan,GT-R,Premium,"13,780",125995 ,Blue,Black
+2020,Tesla,Model Y,Performance Dual Motor AWD,"9,314",59998 ,Silver,Black
+2020,Tesla,Model Y,Long Range Dual Motor AWD,"25,239",55998 ,Blue,Black
+2020,Porsche,718 Cayman,GT4,"7,028",126995 ,Tan,Black
+2020,Tesla,Model Y,Long Range Dual Motor AWD,"53,848",52995 ,Blue,Black
+2021,Tesla,Model Y,Long Range AWD,"20,338",59955 ,White,Black
+2021,Porsche,718 Cayman,GT4 Coupe,81,144990 ,Black,Black
+2021,Tesla,Model Y,Long Range AWD,"27,375",59998 ,Black,Black
+2021,Tesla,Model Y,Long Range AWD,"7,664",61998 ,White,White
+2021,Tesla,Model Y,Performance AWD,"22,652",59995 ,Black,White
+2021,Porsche,718 Cayman,GTS 4.0 Coupe,"4,881",108575 ,Black,Black
+2021,Porsche,718 Cayman,GTS 4.0 Coupe,"9,611",105989 ,White,Black
+2021,Tesla,Model Y,Long Range AWD,"29,800",53495 ,White,Black
+2021,Tesla,Model Y,Long Range AWD,"16,712",62092 ,White,Unknown
+2021,Tesla,Model Y,Standard Range RWD,"31,452",50999 ,Blue,Black
+2021,Nissan,GT-R,Premium,"9,793",139991 ,White,Black
+2021,Tesla,Model Y,Long Range AWD,"22,116",60980 ,White,Black
+2021,Tesla,Model Y,Long Range AWD,"4,273",61999 ,Red,Black
+2021,Nissan,GT-R,T-Spec,424,239988 ,Green,Green
+2021,Tesla,Model Y,Standard Range RWD,"17,843",54998 ,Blue,Black
+2021,Tesla,Model Y,Standard Range RWD,"23,912",52687 ,Silver,White
+2021,Tesla,Model Y,Long Range AWD,"31,218",56499 ,Red,Black
+2021,Tesla,Model Y,Long Range AWD,"13,520",57998 ,White,Black
+2021,Tesla,Model Y,Long Range AWD,"16,958",58999 ,Gray,White
+2021,Tesla,Model Y,Long Range AWD,"6,979",60499 ,Red,Black
+2021,Tesla,Model Y,Performance AWD,"10,346",62201 ,White,Black
+2021,Tesla,Model Y,Long Range AWD,"4,096",62499 ,White,Black
+2021,Tesla,Model Y,Performance AWD,"20,598",62998 ,Black,Black
+2021,Tesla,Model Y,Long Range AWD,"7,367",59499 ,Unknown,Black
+2021,Tesla,Model Y,Long Range AWD,"23,881",51995 ,Red,Black
+2021,Tesla,Model Y,Performance AWD,"13,818",61703 ,White,Black
+2021,Tesla,Model Y,Long Range AWD,"24,864",58499 ,Red,Black
+2021,Nissan,GT-R,Premium,"13,488",138999 ,Black,Black
+2021,Mercedes-Benz,C-Class,AMG C 63 S Coupe RWD,"13,450",89950 ,White,Red
+2021,Mercedes-Benz,C-Class,AMG C 63 S Cabriolet RWD,"2,336",97999 ,Black,Red
+2021,Nissan,GT-R,T-Spec,"8,229",199988 ,Purple,Green
+2021,Audi,RS 5,Coupe,"5,111",78981 ,Green,Black
+2021,Audi,RS 5,Sportback,"18,610",78995 ,Red,Black
+2021,Audi,RS 5,Sportback,"8,473",83900 ,Undetermined,Black
+2021,Audi,RS 5,Sportback,"12,253",78895 ,Gray,Black
+2021,Audi,RS 5,Sportback,"8,127",82900 ,White,Black
+2021,Mercedes-Benz,C-Class,AMG C 63 S Coupe RWD,"8,800",86990 ,Gray,Black
+2021,Audi,RS 5,Coupe,"1,012",81997 ,White,Black
+2021,Audi,RS 5,Sportback,"13,509",78750 ,Gray,Black
+2021,Audi,RS 5,Sportback,"12,896",78700 ,Black,Black
+2021,Audi,RS 5,Coupe,"11,540",76671 ,Blue,Black
+2021,Audi,RS 5,Sportback,"11,002",78832 ,Undetermined,Black
+2021,Audi,RS 5,Sportback,"16,962",78020 ,Black,Black
+2021,Audi,RS 5,Coupe,"19,332",74463 ,Gray,Black
+2021,Audi,RS 5,Sportback,"9,860",70444 ,Green,Black
+2021,Audi,RS 5,Coupe,"9,790",83900 ,Gray,Black
+2021,Audi,RS 5,Coupe,"18,680",74998 ,Blue,Black
+2021,Mercedes-Benz,C-Class,AMG C 63 S Cabriolet RWD,"19,955",95995 ,Black,Red
+2021,Mercedes-Benz,C-Class,AMG C 63 S Sedan RWD,"11,997",82990 ,Black,Red
+2021,Tesla,Model Y,Performance AWD,"25,091",61647 ,Gray,White
+2021,BMW,M4,Competition Coupe,"2,028",82996 ,Gray,Black
+2021,Tesla,Model Y,Long Range AWD,"19,566",60309 ,Blue,Unknown
+2021,BMW,M4,Competition Coupe,"27,276",79205 ,Blue,Orange
+2021,BMW,M4,Competition Coupe,"9,670",80479 ,Gray,Black
+2021,BMW,M4,Coupe,"7,147",79900 ,Blue,Gray
+2021,Tesla,Model Y,Long Range AWD,"17,940",61998 ,Blue,White
+2021,BMW,M4,Competition Coupe,"22,240",79998 ,Green,Gray
+2021,BMW,M4,Competition Coupe,"8,940",80795 ,Black,Black
+2022,Tesla,Model Y,Performance AWD,"18,659",62999 ,White,Black
+2022,Tesla,Model Y,Long Range AWD,"7,371",64977 ,White,Black
+2022,Tesla,Model Y,Long Range AWD,"11,239",58990 ,Black,Black
+2022,Tesla,Model Y,Performance AWD,"10,543",65998 ,White,Black
+2022,Tesla,Model Y,Long Range AWD,252,66499 ,Silver,Black
+2022,Tesla,Model Y,Long Range AWD,537,64988 ,White,Black
+2022,Tesla,Model Y,Performance AWD,"3,672",66499 ,Gray,White
+2022,Tesla,Model Y,Long Range AWD,"20,599",59998 ,White,Black
+2022,Tesla,Model Y,Performance AWD,"4,276",67499 ,Gray,Black
+2022,Tesla,Model Y,Long Range AWD,"7,383",63499 ,Black,Black
+2022,Tesla,Model Y,Performance AWD,"4,414",68499 ,Black,Black
+2022,Tesla,Model Y,Long Range AWD,"6,358",63998 ,Gray,White
+2022,Tesla,Model Y,Long Range AWD,"8,718",61769 ,White,Black
+2022,Tesla,Model Y,Long Range AWD,"12,763",60945 ,White,Black
+2022,Tesla,Model Y,Performance AWD,"3,008",67999 ,White,Black
+2022,Tesla,Model Y,Performance AWD,"8,453",62514 ,Gray,Black
+2022,Tesla,Model Y,Long Range AWD,"2,253",63999 ,Silver,Black
+2022,Tesla,Model Y,Long Range AWD,29,66499 ,Gray,Black
+2022,Tesla,Model Y,Long Range AWD,601,63499 ,Blue,Black
+2022,Tesla,Model Y,Long Range AWD,"8,454",62499 ,White,White
+2022,Tesla,Model Y,Long Range AWD,"11,763",61999 ,Blue,Black
+2022,Tesla,Model Y,Performance AWD,"6,520",62998 ,Blue,Black
+2022,Tesla,Model Y,Long Range AWD,"4,899",64499 ,White,Black
+2022,Tesla,Model Y,Long Range AWD,"8,700",62233 ,White,Black
+2022,Tesla,Model Y,Long Range AWD,"1,412",66200 ,White,White
+2022,Tesla,Model Y,Long Range AWD,"2,973",64999 ,Red,White
+2022,Tesla,Model Y,Long Range AWD,"3,049",65499 ,White,Black
+2022,Tesla,Model Y,Long Range AWD,34,65499 ,White,Black
+2022,Tesla,Model Y,Long Range AWD,90,69980 ,White,White
+2022,Tesla,Model Y,Long Range AWD,434,65499 ,Gray,White
+2022,Tesla,Model Y,Long Range AWD,"6,200",64647 ,Black,Black
+2022,BMW,M4,Competition Convertible xDrive,"7,470",87995 ,Black,Gray
+2022,BMW,M4,Competition Coupe xDrive,"8,725",86495 ,Gray,Red
+2022,Audi,RS 5,Coupe,"3,401",89999 ,White,Black
+2022,Audi,RS 5,Sportback,666,87990 ,Black,Black
+2022,Audi,RS 5,Sportback,275,88990 ,Gray,Gray
+2022,Audi,RS 5,Sportback,"1,322",86500 ,Blue,Black
+2022,Audi,RS 5,Coupe,"3,485",89888 ,Black,Black
+2022,Audi,RS 5,Sportback,"3,282",87992 ,Blue,Black
+2022,Audi,RS 5,Sportback,"5,722",83511 ,Gray,Black
+2022,Audi,RS 5,Sportback,"5,665",85887 ,Gray,Black
+2022,Audi,RS 5,Sportback,"3,711",83700 ,Gray,Black
+2022,Audi,RS 5,Coupe,"2,100",87951 ,Gray,Black
+2022,Audi,RS 5,Sportback,"9,000",99500 ,Green,Black
+2022,Audi,RS 5,Sportback,"3,064",93488 ,Green,Gray
+2022,BMW,M4,Competition Coupe xDrive,12,179995 ,White,Unknown
+2022,BMW,M4,Competition Coupe xDrive,"2,157",129998 ,Black,Unknown
+2022,Porsche,718 Cayman,GTS,"2,568",118575 ,Blue,Black
+2022,BMW,M4,Competition Coupe xDrive,"1,667",159995 ,Black,Unknown
+2022,BMW,M4,Competition Coupe xDrive,"5,340",104999 ,White,Brown
+2022,BMW,M4,Competition Coupe xDrive,"3,627",92900 ,Black,Black
+2022,BMW,M4,Competition Coupe xDrive,210,99990 ,Blue,Orange
+2022,BMW,M4,Competition Coupe xDrive,"3,441",93985 ,Gray,Black
+2022,BMW,M4,Competition Coupe xDrive,"2,910",86990 ,Gray,Red
+2022,BMW,M4,Competition Coupe xDrive,"2,169",96998 ,Gray,Black
+2022,BMW,M4,Competition Convertible xDrive,"8,369",88107 ,White,Blue
+2022,BMW,M4,Competition Coupe xDrive,"4,585",93990 ,Gray,Black
+2022,BMW,M4,Competition Convertible xDrive,"2,453",91996 ,Unknown,Black
+2022,BMW,M4,Competition Convertible xDrive,"1,910",108995 ,Yellow,Blue
+2022,BMW,M4,Coupe RWD,206,82950 ,Black,White
+2022,BMW,M4,Competition Convertible xDrive,"1,714",88995 ,Blue,Black
+2022,BMW,M4,Competition Convertible xDrive,"1,907",92685 ,Gray,Brown
+2022,BMW,M4,Competition Convertible xDrive,"5,547",91000 ,Gray,Red
+2023,BMW,M4,Competition Coupe xDrive,800,103000 ,Gray,Red
+2023,Tesla,Model Y,Long Range AWD,790,69998 ,Gray,Black
+2023,BMW,M4,Coupe RWD,"2,875",81995 ,Red,Red
+2023,Audi,RS 5,Coupe,774,79900 ,Blue,Black
+2023,Tesla,Model Y,Long Range AWD,510,62999 ,Gray,Black
