@@ -12,7 +12,7 @@ import pandas as pd
 
 url = 'https://raw.githubusercontent.com/JianpengHuang/Individual-project/main/Revised%20data.csv'
 
-df = pd.read_csv(url)
+df = pd.read_csv('https://raw.githubusercontent.com/JianpengHuang/Individual-project/main/Revised%20data.csv')
 
 
 stylesheet = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
