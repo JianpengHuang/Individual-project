@@ -40,7 +40,7 @@ fig.update_xaxes(range = [2014.5, 2023.5])
 
 app.layout = html.Div([
     html.H1('TrueCar Used Sport Car Dashboard',          
-            style = {'textAlign' : 'center', 'font-size' : 45}),
+            style = {'textAlign' : 'center', 'font-size' : 45})
  
 
 if __name__ == '__main__':
